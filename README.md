@@ -1,2 +1,2 @@
 # Second-Repository
-interaction with Kraken should work now
+interaction with GitKraken should work now
