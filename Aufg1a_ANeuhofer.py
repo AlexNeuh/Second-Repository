@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec  3 15:13:57 2019
+Created on Tue Dec 3, 2019
 
 @author: Alexander Neuhofer
 
