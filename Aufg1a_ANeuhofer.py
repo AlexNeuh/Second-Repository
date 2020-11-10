@@ -7,13 +7,13 @@ Created on Tue Dec 3, 2019
 
 """
 
-def is_prime():
+def is_prime(Eingabe):
     """ Prueft, ob Eingabe eine Primzahl ist. 
         Die Eingabe muss eine Zahl und größer 1 sein, andernfalls wird 
         die Zahl als 'keine Primzahl' bezeichnet """
     
-    # Wert abfragen
-    Eingabe = int(input("Geben Sie die zu pruefende Zahl ein: "))
+    # Auskommentiert, weil Wert für Test nicht abfragen, sonst overflow in Actions/Test
+    # Eingabe = int(input("Geben Sie die zu pruefende Zahl ein: "))
     
     # Schleifenzaehler für Schein-Primzahlen
     p = 1
