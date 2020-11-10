@@ -37,6 +37,3 @@ def is_prime(Eingabe):
     else:
         print("Zahl muss größer 1 sein!")
 
-
-#### main() ####
-is_prime()
