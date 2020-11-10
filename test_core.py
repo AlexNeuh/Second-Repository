@@ -6,6 +6,8 @@ Created on Fri Nov 6, 2020
 
 
 """
+import foo from core
+
 
 def test_foo():
     """ Simple function to explain usage of test file. 
