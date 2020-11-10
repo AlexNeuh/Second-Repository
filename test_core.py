@@ -6,6 +6,9 @@ Created on Fri Nov 6, 2020
 
 
 """
+# import function, that should be tested
+from core import foo
+
 
 def test_foo():
     """ Simple function to explain usage of test file. 
