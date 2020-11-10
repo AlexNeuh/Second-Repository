@@ -7,8 +7,9 @@ from Aufg1a_ANeuhofer import is_prime
 
 
 def test_isPrime():
-    """ Simple function to explain usage of test file. 
-	- Each function should be checked with a test! """
+    """ isPrime should check:
+    		if input is prime or not and
+		if input is positive or not. 	"""
     
     # assert = "behaupte, dass ..."
     assert is_prime(3) == "Die Zahl  3  ist wirklich eine Primzahl!"
