@@ -6,7 +6,7 @@ Created on Fri Nov 6, 2020
 
 
 """
-import foo from core
+from core import foo
 
 
 def test_foo():
