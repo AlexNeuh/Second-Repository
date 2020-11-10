@@ -11,4 +11,4 @@ def foo(x):
     """ Simple function to explain usage of test file. """
     
     # Returns input + 1
-    return + 1
+    return x + 1
