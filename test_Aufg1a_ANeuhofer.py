@@ -12,6 +12,6 @@ def test_isPrime():
 		if input is positive or not. 	"""
     
     # assert = "behaupte, dass ..."
-    assert is_prime(3) == print("Die Zahl 3 ist wirklich eine Primzahl!")
-    assert is_prime(4) == print("Die Zahl 4 ist keine Primzahl!")
-    assert is_prime(-2) == print("Zahl muss größer 1 sein!")
+    assert is_prime(3) == True
+    assert is_prime(4) == False
+    assert is_prime(-2) == None

@@ -28,10 +28,11 @@ def is_prime(Eingabe):
             else:
                 print("Die Zahl ",Eingabe," ist keine Primzahl!")
                 p = 0
-                break
+                return Faluse
             
         if p > 1:
             print("Die Zahl ",Eingabe," ist wirklich eine Primzahl!")
+            return True
      
     # Falls Zahl kleiner 1 eingegeben wurde
     else:
