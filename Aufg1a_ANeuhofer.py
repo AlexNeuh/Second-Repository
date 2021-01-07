@@ -28,7 +28,7 @@ def is_prime(Eingabe):
             else:
                 print("Die Zahl ",Eingabe," ist keine Primzahl!")
                 p = 0
-                return Faluse
+                return False
             
         if p > 1:
             print("Die Zahl ",Eingabe," ist wirklich eine Primzahl!")
